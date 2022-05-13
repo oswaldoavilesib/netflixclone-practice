@@ -1,0 +1,283 @@
+{
+
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Aegce5HOGrEOwu2FRUEvpbREgKs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BPidLpADlaM"
+        },
+        "snippet": {
+          "publishedAt": "2009-10-03T04:48:00Z",
+          "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+          "title": "Shakira - Dia de Enero (Official HD Video)",
+          "description": "Vídeo oficial de Shakira de su tema 'Dia De Enero'. Haz clic aquí para escuchar a Shakira en Spotify: http://smarturl.it/ShakiraSpot ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPidLpADlaM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPidLpADlaM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPidLpADlaM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "shakiraVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-10-03T04:48:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z5fuCAZtmTGCKA-ko1lrGZOjfJo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N31b8DrmzVM"
+        },
+        "snippet": {
+          "publishedAt": "2009-11-18T08:08:29Z",
+          "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+          "title": "Shakira - Lo Hecho Está Hecho (Official HD Video)",
+          "description": "Official HD Video \"Lo Hecho Está Hecho\" by Shakira Listen to Shakira: https://Shakira.lnk.to/listen_YD Watch more videos by ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N31b8DrmzVM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N31b8DrmzVM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N31b8DrmzVM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "shakiraVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-11-18T08:08:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m2UYoWrKoyeMLLwMBd-u4NFIITk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Pm6IXg1oEL4"
+        },
+        "snippet": {
+          "publishedAt": "2011-11-03T04:00:00Z",
+          "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+          "title": "Shakira - Antes De Las Seis (Live From Paris)",
+          "description": "Vídeo oficial de Shakira de su tema 'Antes De Las Seis (Live from Paris)'. Haz clic aquí para escuchar a Shakira en Spotify: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Pm6IXg1oEL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Pm6IXg1oEL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Pm6IXg1oEL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "shakiraVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-11-03T04:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MROqbnWWdqcRcBKH_kb4sa-5Zh0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a8Rwz6zBJSE"
+        },
+        "snippet": {
+          "publishedAt": "2009-11-20T06:23:12Z",
+          "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+          "title": "Shakira - Suerte (Whenever, Wherever)",
+          "description": "Official HD Video \"Suerte (Whenever, Wherever)\" by Shakira Listen to Shakira: https://Shakira.lnk.to/listen_YD Watch more videos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "shakiraVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-11-20T06:23:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TdJFPFTjs93ZNu6Fe9SDe9kyzMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ckw2lfuVTdM"
+        },
+        "snippet": {
+          "publishedAt": "2009-06-17T05:24:32Z",
+          "channelId": "UCLp8RBhQHu9wSsq62j_Md6A",
+          "title": "Luis Fonsi - Nada Es Para Siempre (Official Music Video)",
+          "description": "REMASTERED IN HD! Best of Luis Fonsi / Lo mejor Luis Fonsi: https://goo.gl/KLWPSa Subscribe here: https://goo.gl/nkhcGc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+            
+          },
+          "channelTitle": "LuisFonsiVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-06-17T05:24:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TdJFPFTjs93ZNu6Fe9SDe9kyzMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ckw2lfuVTdM"
+        },
+        "snippet": {
+          "publishedAt": "2009-06-17T05:24:32Z",
+          "channelId": "UCLp8RBhQHu9wSsq62j_Md6A",
+          "title": "Luis Fonsi - Nada Es Para Siempre (Official Music Video)",
+          "description": "REMASTERED IN HD! Best of Luis Fonsi / Lo mejor Luis Fonsi: https://goo.gl/KLWPSa Subscribe here: https://goo.gl/nkhcGc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+            
+          },
+          "channelTitle": "LuisFonsiVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-06-17T05:24:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TdJFPFTjs93ZNu6Fe9SDe9kyzMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ckw2lfuVTdM"
+        },
+        "snippet": {
+          "publishedAt": "2009-06-17T05:24:32Z",
+          "channelId": "UCLp8RBhQHu9wSsq62j_Md6A",
+          "title": "Luis Fonsi - Nada Es Para Siempre (Official Music Video)",
+          "description": "REMASTERED IN HD! Best of Luis Fonsi / Lo mejor Luis Fonsi: https://goo.gl/KLWPSa Subscribe here: https://goo.gl/nkhcGc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+            
+          },
+          "channelTitle": "LuisFonsiVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-06-17T05:24:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TdJFPFTjs93ZNu6Fe9SDe9kyzMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ckw2lfuVTdM"
+        },
+        "snippet": {
+          "publishedAt": "2009-06-17T05:24:32Z",
+          "channelId": "UCLp8RBhQHu9wSsq62j_Md6A",
+          "title": "Luis Fonsi - Nada Es Para Siempre (Official Music Video)",
+          "description": "REMASTERED IN HD! Best of Luis Fonsi / Lo mejor Luis Fonsi: https://goo.gl/KLWPSa Subscribe here: https://goo.gl/nkhcGc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ckw2lfuVTdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+            
+          },
+          "channelTitle": "LuisFonsiVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-06-17T05:24:32Z"
+        }
+      }
+      
+    ]
+  }
+  
